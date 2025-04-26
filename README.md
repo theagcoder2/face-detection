@@ -11,9 +11,10 @@
  
 # pip install opencv-python
 
-git clone 
+git clone https://github.com/theagcoder2/face-detection/tree/main
 
 Face-Detection/
+
 ├── face_detection.py                
 ├── haarcascade_frontalface_default.xml  
 ├── README.md    
